@@ -5,8 +5,8 @@
 
 
 ## 🧑‍🎓 About Me
-- 🎓 I am a third Computer Science student in FCAI Cairo University with a GPA of 3.85 🥰.
-- 💼 Over my two years in college, I’ve learned a lot of concepts such as Object-Oriented Programming (OOP), software engineering principles, SOLID principles, design patterns, as well as data structures and algorithms.
+- 🎓 I am a Senior Computer Science student at FCAI, Cairo University with a GPA of 3.91 🥰.
+- 💼 Over my three years in college, I’ve learned a lot of concepts such as Object-Oriented Programming (OOP), software engineering principles, SOLID principles, design patterns, as well as data structures and algorithms.
 
 <br>
 
