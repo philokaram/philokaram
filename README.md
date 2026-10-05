@@ -1,36 +1,55 @@
+# Hi there! I'm Philopateer Karam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-# Hi there! I'm Philopateer karam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+### Junior HPC System Administrator | Cairo, Egypt
 
 <br>
-
 
 ## 🧑‍🎓 About Me
-- 🎓 I am a Senior Computer Science student at FCAI, Cairo University with a GPA of 3.91 🥰.
-- 💼 Over my three years in college, I’ve learned a lot of concepts such as Object-Oriented Programming (OOP), software engineering principles, SOLID principles, design patterns, as well as data structures and algorithms.
+- 🎓 Computer Science graduate from the Faculty of Computing and AI, Cairo University (2022 – 2026), GPA **3.91**.
+- 🖥️ I specialize in **High-Performance Computing**, Linux systems, and cluster administration.
+- 🛠️ I have hands-on experience in cluster provisioning, workload management, and parallel programming through internships and research.
+- 🌱 I'm now expanding into automation and container orchestration.
 
 <br>
 
-## 💻 Projects & Experience
-- **Simple BMP Photo Editor App** -  A C++ console application with features including black-and-white conversion, inversion, flipping, rotation, edge detection, enlargement, mirroring, shuffling, cropping, merging, darkening and lightening, shrinking, and skewing (both horizontally and vertically).
-- **Career Compass Web App** -A web app that connects recruiters with potential employees, developed collaboratively with a team of five members.
-- **Command Line Interpreter** - A Linux-like CLI made using Java, developed in collaboration with a team of four members.
+## 💼 Experience
+- **HPC Research Group Member**, Cairo University (Mar 2025 – Present): cluster administration, performance optimization, and parallel computing.
+- **HPC Intern, System Support & Administration**, Applied Innovation Center (AIC), MCIT (Jul – Sep 2025): installed and configured HPC software and managed jobs with SLURM.
+- **HPC Intern, Cluster Infrastructure & Deployment**, HPC R&D Lab, FCAI-CU (Jul – Sep 2025): helped rebuild the **HiPer-FC** cluster and set up a secure lab environment.
 
 <br>
-
 
 ## 🚀 Skills
-- **Programming Languages:** C++ , C, Python, Java, JavaScript, Dart
+- **Languages:** C, C++, Python, Java
+- **HPC:** MPI, OpenMP, SLURM, Performance Optimization
+- **Systems:** Linux/Unix, Bash, xCAT, FreeIPA
+- **Tools:** Git, GitHub, SQL
+- **Design:** OOP, Design Patterns, MVC
 
-- **Web Development:** HTML, CSS
+<br>
 
-- **Data & Databases:** SQL
+## 📂 Featured Projects
+- [**AI Vision Classifier System**](https://github.com/Mahmoud3177Khaled/AI-Vision-Classifier-System): real-time material classification with deep feature extraction and classical ML, robust to lighting changes, motion blur, and noise.
+- [**CPU Scheduler Simulator**](https://github.com/Mahmoud3177Khaled/CPU-Scheduler-Simulator): a GUI simulator for SRTF, SJF, Priority, and the custom FCAI scheduling algorithms.
+- [**Linux Command Line Interpreter**](https://github.com/Mahmoud3177Khaled/Linux-Command_Line_Interpreter-Clone): a C++ shell supporting `cp`, `ls`, `rm`, `mkdir`, `mv`, pipes, and redirection.
+- [**Learning Management System API**](https://github.com/Mahmoud3177Khaled/Web-Based-Learning-Management-System): a RESTful backend built with Java and Spring Boot.
+- **MPI-Based HPC Cluster**: a multi-node Beowulf-style cluster with SSH trust setup and distributed parallel execution.
 
-- **Tools & Platforms:** Git, VS Code, Linux
+<br>
+
+## 📜 Certifications
+- Red Hat System Administration I (RH124) & II (RH134), Red Hat Academy
+- High-Performance and Parallel Computing Specialization, University of Colorado Boulder (Coursera)
+- Ubuntu Linux Essentials & Introduction to HPC, MaharaTech
 
 <br>
 
 ## 🌱 Currently Learning
-- Diving deeper into algorithms, Advanced data structuresو Advanced software engineering, operating system ,... 
-- Enhancing my knowledge of Flutter, machine learning.
+- Red Hat Enterprise Linux Automation with Ansible
+- Introduction to Kubernetes (The Linux Foundation)
+
 <br>
 
+## 📫 Contact
+- 📧 philokrm@gmail.com
+- 📍 Cairo, Egypt
