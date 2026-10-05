@@ -22,18 +22,21 @@
 ## 🚀 Skills
 - **Languages:** C, C++, Python, Java
 - **HPC:** MPI, OpenMP, SLURM, Performance Optimization
-- **Systems:** Linux/Unix, Bash, xCAT, FreeIPA
-- **Tools:** Git, GitHub, SQL
+- **Systems:** Linux/Unix (RHEL, Ubuntu), Bash, xCAT, FreeIPA
+- **DevOps:** Git, GitHub, Jenkins (learning Ansible & Kubernetes)
 - **Design:** OOP, Design Patterns, MVC
 
 <br>
 
 ## 📂 Featured Projects
-- [**AI Vision Classifier System**](https://github.com/Mahmoud3177Khaled/AI-Vision-Classifier-System): real-time material classification with deep feature extraction and classical ML, robust to lighting changes, motion blur, and noise.
-- [**CPU Scheduler Simulator**](https://github.com/Mahmoud3177Khaled/CPU-Scheduler-Simulator): a GUI simulator for SRTF, SJF, Priority, and the custom FCAI scheduling algorithms.
+- [**RHEL Linux Administration Portfolio**](https://github.com/philokaram/rhel-linux-administration-portfolio): hands-on Red Hat system administration work.
 - [**Linux Command Line Interpreter**](https://github.com/Mahmoud3177Khaled/Linux-Command_Line_Interpreter-Clone): a C++ shell supporting `cp`, `ls`, `rm`, `mkdir`, `mv`, pipes, and redirection.
-- [**Learning Management System API**](https://github.com/Mahmoud3177Khaled/Web-Based-Learning-Management-System): a RESTful backend built with Java and Spring Boot.
 - **MPI-Based HPC Cluster**: a multi-node Beowulf-style cluster with SSH trust setup and distributed parallel execution.
+- [**CPU Scheduler Simulator**](https://github.com/Mahmoud3177Khaled/CPU-Scheduler-Simulator): a GUI simulator for SRTF, SJF, Priority, and the custom FCAI scheduling algorithms.
+- [**AI Vision Classifier System**](https://github.com/Mahmoud3177Khaled/AI-Vision-Classifier-System): real-time material classification with deep feature extraction and classical ML, robust to lighting changes, motion blur, and noise.
+- [**Java GA Library**](https://github.com/philokaram/Java_GA_Library): a genetic algorithms library in Java.
+- [**Gomoku Game with AI**](https://github.com/philokaram/Gomogu_Game_With_AI): a Gomoku game with an AI opponent in Python.
+- [**Simple Paint App**](https://github.com/philokaram/Simple_Paint_App): a C++ paint application.
 
 <br>
 
