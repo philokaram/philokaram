@@ -55,4 +55,5 @@
 
 ## 📫 Contact
 - 📧 philokrm@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/philopateer-karam-472a2b259/)
 - 📍 Cairo, Egypt
